@@ -1951,8 +1951,6 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
-                  type: number
               type: object
       responses:
         '200':
@@ -2304,8 +2302,6 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
-                  type: number
               type: object
       responses:
         '200':
@@ -2697,8 +2693,6 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
-                  type: number
               type: object
       responses:
         '200':
@@ -2940,8 +2934,6 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
-                  type: number
               type: object
       responses:
         '200':
@@ -3332,8 +3324,6 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
-                  type: number
               type: object
       responses:
         '200':
@@ -4092,8 +4082,6 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
-                  type: number
               type: object
       responses:
         '200':
@@ -4434,8 +4422,6 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
-                  type: number
               type: object
       responses:
         '200':
@@ -4916,8 +4902,6 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
-                  type: number
               type: object
       responses:
         '200':
@@ -5365,8 +5349,6 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
-                  type: number
               type: object
       responses:
         '200':
@@ -5920,8 +5902,6 @@ paths:
                   additionalProperties: false
                   required:
                     - selector
-                waitForTimeout:
-                  type: number
               type: object
       responses:
         '200':

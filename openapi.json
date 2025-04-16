@@ -1480,9 +1480,6 @@
                     "required": [
                       "selector"
                     ]
-                  },
-                  "waitForTimeout": {
-                    "type": "number"
                   }
                 },
                 "type": "object"
@@ -1820,10 +1817,6 @@
                       "selector"
                     ]
                   },
-                  "waitForTimeout": {
-                    "type": "number"
-                  }
-                },
                 "type": "object"
               }
             }
@@ -2245,9 +2238,6 @@
                     "required": [
                       "selector"
                     ]
-                  },
-                  "waitForTimeout": {
-                    "type": "number"
                   }
                 },
                 "type": "object"
@@ -2539,9 +2529,6 @@
                     "required": [
                       "selector"
                     ]
-                  },
-                  "waitForTimeout": {
-                    "type": "number"
                   }
                 },
                 "type": "object"
@@ -3010,9 +2997,6 @@
                     "required": [
                       "selector"
                     ]
-                  },
-                  "waitForTimeout": {
-                    "type": "number"
                   }
                 },
                 "type": "object"
@@ -3868,9 +3852,6 @@
                     "required": [
                       "selector"
                     ]
-                  },
-                  "waitForTimeout": {
-                    "type": "number"
                   }
                 },
                 "type": "object"
@@ -4285,9 +4266,6 @@
                     "required": [
                       "selector"
                     ]
-                  },
-                  "waitForTimeout": {
-                    "type": "number"
                   }
                 },
                 "type": "object"
@@ -4883,9 +4861,6 @@
                     "required": [
                       "selector"
                     ]
-                  },
-                  "waitForTimeout": {
-                    "type": "number"
                   }
                 },
                 "type": "object"
@@ -5443,9 +5418,6 @@
                     "required": [
                       "selector"
                     ]
-                  },
-                  "waitForTimeout": {
-                    "type": "number"
                   }
                 },
                 "type": "object"
@@ -6076,9 +6048,6 @@
                     "required": [
                       "selector"
                     ]
-                  },
-                  "waitForTimeout": {
-                    "type": "number"
                   }
                 },
                 "type": "object"

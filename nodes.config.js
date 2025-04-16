@@ -47,7 +47,6 @@ module.exports = {
         "url",
         "elements",
         'selector',
-        "waitForTimeout",
         "waitForSelector",
         'options',
         "gotoOptions",
