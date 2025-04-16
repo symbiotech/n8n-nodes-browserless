@@ -155,29 +155,6 @@ export const properties: INodeProperties[] = [
     required: true,
   },
   {
-    displayName: 'Wait For Timeout',
-    name: 'waitForTimeout',
-    type: 'number',
-    default: 0,
-    description: undefined,
-    routing: {
-      request: {
-        body: {
-          waitForTimeout: '={{ $value }}',
-        },
-      },
-    },
-    displayOptions: {
-      hide: {
-        useCustomBody: [true],
-      },
-      show: {
-        resource: ['Browser Rest Apis'],
-        operation: ['Unblock'],
-      },
-    },
-  },
-  {
     displayName: 'Wait For Selector',
     name: 'waitForSelector',
     type: 'fixedCollection',
